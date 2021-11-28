@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AjaySundaran
+- 👋 Hi, I’m @Ajay Sundaran
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning at VIT Bhoal
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+- 📫 studying Aerospace Enginnering
+- 
 
 <!---
 AjaySundaran/AjaySundaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
