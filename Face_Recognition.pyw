@@ -2,14 +2,30 @@ import sys
 from tkinter import *
 import tkinter as tk
 import os
-import shutil
-import cv2
 import time
-import win32com.client
-import os
-import numpy as np
-from PIL import Image
 import tkinter
+
+try:
+    import shutil
+except:
+    os.system("pip install pytest-shutil")
+try:
+    import cv2
+except:
+    os.system("pip install opencv-python")
+try:
+    import win32com.client
+except:
+    os.system("pip install pywin32")
+try:
+    import numpy as np
+except:
+    os.system("pip install numpy")
+try:
+    from PIL import Image
+except:
+    os.system("pip install Pillow")
+
 
 Voice = win32com.client.Dispatch("SAPI.SpVoice")
 def speak(data):
